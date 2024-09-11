@@ -1,0 +1,47 @@
+.profil {
+    margin-right: 30px;
+    font-size: 2rem;
+    display: flex;
+    justify-content: flex-end;
+    z-index: 2001; 
+}
+
+.profil-menu.active {
+    top: 0;
+    transition: 350ms;
+}
+
+.profil-menu {
+    background-color: #060b26;
+    width: 200px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    right: 0;
+    top: -100%;
+    transition: 600ms;
+    margin-top: 80px;
+    z-index: 2000;
+}
+
+.profil-menu ul {
+    margin-left: -50px;
+}
+
+.connexion {
+    margin-right: 20px;
+    justify-content: flex-end;
+}
+
+@media (max-width: 768px) {
+    .connexion {
+        padding-right: 5px;
+        justify-content: center;
+    }
+    
+    .connexion .MuiButton-root {
+        font-size: 12px; 
+        width: 90px;
+    }
+}

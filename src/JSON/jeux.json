@@ -1,0 +1,374 @@
+[
+  {
+    "id": 1,
+    "nom": "The Legend of Zelda: Tears of the Kingdom",
+    "dateSortie": "2023-05-12",
+    "note": 9.5,
+    "imageUrl": "zeldaTOK.jpg",
+    "developpeur": [
+      {
+        "id": 1,
+        "nom": "Nintendo"
+      }, 
+      {
+        "id": 2,
+        "nom": "Nintendogs"
+      }
+    ],
+    "editeurs": ["Nintendo"],
+    "genres": ["Action", "Adventure"],
+    "plateformes": ["Nintendo Switch"],
+    "ranking": 1,
+    "synopsis": "The Legend of Zelda: Tears of the Kingdom suit Link dans une nouvelle aventure épique à travers le royaume d’Hyrule, désormais élargi aux cieux. Après une mystérieuse catastrophe, le royaume est plongé dans le chaos, et Link doit explorer les îles flottantes, maîtriser de nouveaux pouvoirs magiques et affronter d'anciens ennemis pour sauver la princesse Zelda et restaurer la paix. Avec un monde ouvert encore plus vaste, des puzzles innovants, et de nouvelles capacités, Link doit unir le ciel et la terre pour dévoiler les secrets de ce royaume déchiré.",
+    "multijoueur": false,
+    "cooperatif": false,
+    "solo": true,
+    "goty": true
+  },
+  {
+    "id": 2,
+    "nom": "Elden Ring",
+    "dateSortie": "2022-02-25",
+    "note": 9.7,
+    "imageUrl": "eldenring.jpg",
+    "developpeur": [
+      {
+        "id": 2,
+        "nom": "FromSoftware"
+      }
+    ],
+    "editeurs": ["Bandai Namco Entertainment"],
+    "genres": ["Action RPG", "Open World"],
+    "plateformes": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+    "ranking": 2,
+    "synopsis": "A dark fantasy action RPG where players explore a vast open world filled with challenging enemies.",
+    "multijoueur": true,
+    "cooperatif": true,
+    "solo": true,
+    "goty": true
+  },
+  {
+    "id": 3,
+    "nom": "God of War Ragnarök",
+    "dateSortie": "2022-11-09",
+    "note": 9.4,
+    "imageUrl": "gowRagna.jpg",
+    "developpeur": [
+      {
+        "id": 3,
+        "nom": "Santa Monica Studio"
+      }
+    ],
+    "editeurs": ["Sony Interactive Entertainment"],
+    "genres": ["Action", "Adventure"],
+    "plateformes": ["PS4", "PS5"],
+    "ranking": 3,
+    "synopsis": "Kratos and Atreus embark on a mythological adventure to prevent Ragnarök, the end of the world.",
+    "multijoueur": false,
+    "cooperatif": false,
+    "solo": true,
+    "goty": true
+  },
+  {
+    "id": 4,
+    "nom": "Hogwarts Legacy",
+    "dateSortie": "2023-02-10",
+    "note": 7.8,
+    "imageUrl": "hl.png",
+    "developpeur": [
+      {
+        "id": 4,
+        "nom": "Portkey Games"
+      }
+    ],
+    "editeurs": ["Warner Bros. Interactive Entertainment"],
+    "genres": ["Action RPG", "Adventure"],
+    "plateformes": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+    "ranking": 4,
+    "synopsis": "An immersive open-world action RPG set in the Harry Potter universe, where players attend Hogwarts.",
+    "multijoueur": false,
+    "cooperatif": false,
+    "solo": true,
+    "goty": false
+  },
+  {
+    "id": 5,
+    "nom": "Starfield",
+    "dateSortie": "2023-09-06",
+    "note": 8.0,
+    "imageUrl": "starfield.png",
+    "developpeur": [
+      {
+        "id": 5,
+        "nom": "Bethesda Game Studios"
+      }
+    ],
+    "editeurs": ["Bethesda Softworks"],
+    "genres": ["RPG", "Open World", "Space"],
+    "plateformes": ["PC", "Xbox Series X/S"],
+    "ranking": 5,
+    "synopsis": "A space exploration RPG where players navigate an expansive universe filled with planets and missions.",
+    "multijoueur": false,
+    "cooperatif": false,
+    "solo": true,
+    "goty": true
+  },
+  {
+    "id": 6,
+    "nom": "Baldur's Gate 3",
+    "dateSortie": "2023-08-03",
+    "note": 9.6,
+    "imageUrl": "bg3.jpg",
+    "developpeur": [
+      {
+        "id": 6,
+        "nom": "Larian Studios"
+      }
+    ],
+    "editeurs": ["Larian Studios"],
+    "genres": ["RPG", "Strategy"],
+    "plateformes": ["PC", "PS5", "MacOS"],
+    "ranking": 6,
+    "synopsis": "A D&D-based RPG where players make choices that shape the world and their character's destiny.",
+    "multijoueur": true,
+    "cooperatif": true,
+    "solo": true,
+    "goty": true
+  },
+  {
+    "id": 7,
+    "nom": "Diablo IV",
+    "dateSortie": "2023-06-06",
+    "note": 8.9,
+    "imageUrl": "diablo4.png",
+    "developpeur": [
+      {
+        "id": 7,
+        "nom": "Blizzard Entertainment"
+      }
+    ],
+    "editeurs": ["Blizzard Entertainment"],
+    "genres": ["Action RPG", "Dungeon Crawler"],
+    "plateformes": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+    "ranking": 7,
+    "synopsis": "A dark action RPG that continues the epic battle between Heaven and Hell.",
+    "multijoueur": true,
+    "cooperatif": true,
+    "solo": true,
+    "goty": false
+  },
+  {
+    "id": 8,
+    "nom": "Marvel's Spider-Man 2",
+    "dateSortie": "2023-10-20",
+    "note": 9.2,
+    "imageUrl": "spiderman2.png",
+    "developpeur": [
+      {
+        "id": 8,
+        "nom": "Insomniac Games"
+      }
+    ],
+    "editeurs": ["Sony Interactive Entertainment"],
+    "genres": ["Action", "Adventure"],
+    "plateformes": ["PS5"],
+    "ranking": 8,
+    "synopsis": "A superhero action game where players take on the roles of Peter Parker and Miles Morales.",
+    "multijoueur": false,
+    "cooperatif": false,
+    "solo": true,
+    "goty": true
+  },
+  {
+    "id": 9,
+    "nom": "The Elder Scrolls V: Skyrim",
+    "dateSortie": "2011-11-11",
+    "note": 9.5,
+    "imageUrl": "skyrim.jpg",
+    "developpeur": [{ "id": 1, "nom": "Bethesda Game Studios" }],
+    "editeurs": ["Bethesda Softworks"],
+    "genres": ["RPG", "Open World"],
+    "plateformes": ["PC", "PS3", "PS4", "PS5", "Xbox 360", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+    "ranking": 9,
+    "synopsis": "Explorez un monde immense et ouvert rempli de dragons, de quêtes épiques et de magie.",
+    "multijoueur": false,
+    "cooperatif": false,
+    "solo": true,
+    "goty": true
+  },
+  {
+    "id": 10,
+    "nom": "The Legend of Zelda: Breath of the Wild",
+    "dateSortie": "2017-03-03",
+    "note": 9.8,
+    "imageUrl": "zeldaBotW.jpg",
+    "developpeur": [{ "id": 2, "nom": "Nintendo EPD" }],
+    "editeurs": ["Nintendo"],
+    "genres": ["Action", "Adventure", "Open World"],
+    "plateformes": ["Nintendo Switch", "Wii U"],
+    "ranking": 10,
+    "synopsis": "Link se réveille dans un Hyrule dévasté et doit vaincre le Fléau Ganon pour sauver le royaume.",
+    "multijoueur": false,
+    "cooperatif": false,
+    "solo": true,
+    "goty": true
+  },
+  {
+    "id": 11,
+    "nom": "Red Dead Redemption 2",
+    "dateSortie": "2018-10-26",
+    "note": 9.7,
+    "imageUrl": "rdr2.png",
+    "developpeur": [{ "id": 3, "nom": "Rockstar Games" }],
+    "editeurs": ["Rockstar Games"],
+    "genres": ["Action", "Adventure", "Open World"],
+    "plateformes": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+    "ranking": 11,
+    "synopsis": "Vivez la fin de l'ère des hors-la-loi dans un monde ouvert détaillé et immersif.",
+    "multijoueur": true,
+    "cooperatif": false,
+    "solo": true,
+    "goty": true
+  },
+  {
+    "id": 12,
+    "nom": "Black Myth: Wukong",
+    "dateSortie": "2023-10-20",
+    "note": 9.2,
+    "imageUrl": "blackmythwukong.png",
+    "developpeur": [{ "id": 4, "nom": "Insomniac Games" }],
+    "editeurs": ["Sony Interactive Entertainment"],
+    "genres": ["Action", "Adventure"],
+    "plateformes": ["PS5"],
+    "ranking": 12,
+    "synopsis": "A superhero action game where players take on the roles of Peter Parker and Miles Morales.",
+    "multijoueur": false,
+    "cooperatif": false,
+    "solo": true,
+    "goty": true
+  },
+  {
+    "id": 13,
+    "nom": "The Witcher 3: Wild Hunt",
+    "dateSortie": "2015-05-19",
+    "note": 9.8,
+    "imageUrl": "theWitcher3.png",
+    "developpeur": [{ "id": 5, "nom": "CD Projekt Red" }],
+    "editeurs": ["CD Projekt"],
+    "genres": ["RPG", "Open World", "Action"],
+    "plateformes": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+    "ranking": 13,
+    "synopsis": "Incarnez Geralt de Riv dans une quête épique pour retrouver Ciri, l'Enfant de la Prophétie.",
+    "multijoueur": false,
+    "cooperatif": false,
+    "solo": true,
+    "goty": true
+  },
+  {
+    "id": 14,
+    "nom": "Grand Theft Auto V",
+    "dateSortie": "2013-09-17",
+    "note": 9.6,
+    "imageUrl": "gta5.jpg",
+    "developpeur": [{ "id": 6, "nom": "Rockstar North" }],
+    "editeurs": ["Rockstar Games"],
+    "genres": ["Action", "Open World", "Adventure"],
+    "plateformes": ["PC", "PS3", "PS4", "PS5", "Xbox 360", "Xbox One", "Xbox Series X/S"],
+    "ranking": 14,
+    "synopsis": "Vivez la vie criminelle à Los Santos à travers trois protagonistes uniques.",
+    "multijoueur": true,
+    "cooperatif": true,
+    "solo": true,
+    "goty": true
+  },
+  {
+    "id": 15,
+    "nom": "Minecraft",
+    "dateSortie": "2011-11-18",
+    "note": 9.4,
+    "imageUrl": "mincraft.jpg",
+    "developpeur": [{ "id": 7, "nom": "Mojang Studios" }],
+    "editeurs": ["Mojang Studios", "Xbox Game Studios"],
+    "genres": ["Sandbox", "Survival"],
+    "plateformes": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch", "Mobile"],
+    "ranking": 15,
+    "synopsis": "Construisez, explorez et survivez dans un monde fait de blocs cubiques.",
+    "multijoueur": true,
+    "cooperatif": true,
+    "solo": true,
+    "goty": false
+  },
+  {
+    "id": 16,
+    "nom": "Fortnite",
+    "dateSortie": "2017-07-21",
+    "note": 9.0,
+    "imageUrl": "fortnite.png",
+    "developpeur": [{ "id": 8, "nom": "Epic Games" }],
+    "editeurs": ["Epic Games"],
+    "genres": ["Battle Royale", "Shooter", "Sandbox"],
+    "plateformes": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch", "Mobile"],
+    "ranking": 16,
+    "synopsis": "Combattez pour être le dernier survivant dans ce jeu de tir multijoueur en constante évolution.",
+    "multijoueur": true,
+    "cooperatif": true,
+    "solo": false,
+    "goty": false
+  },
+  {
+    "id": 17,
+    "nom": "Dark Souls",
+    "dateSortie": "2011-09-22",
+    "note": 9.2,
+    "imageUrl": "darksouls.png",
+    "developpeur": [{ "id": 9, "nom": "FromSoftware" }],
+    "editeurs": ["Bandai Namco Entertainment"],
+    "genres": ["Action RPG", "Souls-like"],
+    "plateformes": ["PC", "PS3", "PS4", "Xbox 360", "Xbox One"],
+    "ranking": 17,
+    "synopsis": "Un jeu d'action-RPG connu pour sa difficulté intense et son univers sombre.",
+    "multijoueur": true,
+    "cooperatif": true,
+    "solo": true,
+    "goty": true
+  },
+  {
+    "id": 18,
+    "nom": "God of War",
+    "dateSortie": "2018-04-20",
+    "note": 9.6,
+    "imageUrl": "godOfWar2018.jpg",
+    "developpeur": [{ "id": 10, "nom": "Santa Monica Studio" }],
+    "editeurs": ["Sony Interactive Entertainment"],
+    "genres": ["Action", "Adventure"],
+    "plateformes": ["PS4", "PS5"],
+    "ranking": 18,
+    "synopsis": "Kratos et son fils Atreus entreprennent une quête à travers les royaumes nordiques.",
+    "multijoueur": false,
+    "cooperatif": false,
+    "solo": true,
+    "goty": true
+  },
+  {
+    "id": 19,
+    "nom": "Overwatch",
+    "dateSortie": "2016-05-24",
+    "note": 9.4,
+    "imageUrl": "overwatch.jpg",
+    "developpeur": [
+      { 
+        "id": 11, 
+        "nom": "Blizzard Entertainment" 
+      }
+    ],
+    "editeurs": ["Blizzard Entertainment"],
+    "genres": ["Shooter", "Team-based"],
+    "plateformes": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+    "ranking": 19,
+    "synopsis": "Un jeu de tir en équipe mettant en scène des héros aux capacités uniques.",
+    "multijoueur": true,
+    "cooperatif": true,
+    "solo": false,
+    "goty": true
+  }
+]

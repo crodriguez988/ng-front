@@ -1,0 +1,57 @@
+/* Pour les petits écrans mobiles (moins de 768px) */
+@media screen and (max-width: 767px) {
+    .imageJeu {
+        width: 100px;
+        height: 140px;
+        margin-right: 10px;
+        border-radius: 5px;
+    }
+}
+
+/* Pour les tablettes (entre 768px et 1280px) */
+@media screen and (min-width: 768px) and (max-width: 1280px) {
+    .imageJeu {
+        width: 120px;
+        height: 180px;
+        margin-right: 40px;
+        border-radius: 5px;
+    }
+}
+
+/* Pour les écrans de bureau (entre 1281px et 2559px) */
+@media screen and (min-width: 1281px) and (max-width: 2559px) {
+    .imageJeu {
+        width: 120px;
+        height: 180px;
+        margin-right: 50px;
+        border-radius: 5px;
+    }
+}
+
+/* Pour les écrans de 1440p et plus (2560px et plus) */
+@media screen and (min-width: 2560px) {
+    .imageJeu {
+        width: 120px;
+        height: 180px;
+        border-radius: 5px;
+    }
+}
+
+.rank {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100%;
+}
+
+.nomJeu {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+    width: 100%;
+}
+
+.noteFont {
+    color: rgb(28, 60, 113);
+    font-weight: 500;
+}

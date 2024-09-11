@@ -1,0 +1,27 @@
+@media screen and (max-width: 767px) {
+    .titre {
+        font-size: 14px;
+        font-weight: bold;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1280px) {
+    .titre {
+        font-size: 18px;
+        font-weight: bold;
+    }
+}
+
+@media screen and (min-width: 1281px) and (max-width: 2559px) {
+    .titre {
+        font-size: 21px;
+        font-weight: bold;
+    }
+}
+
+@media screen and (min-width: 2560px) {
+    .titre {
+        font-size: 24px;
+        font-weight: bold;
+    }
+}
